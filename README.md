@@ -112,6 +112,9 @@ npm list @nestjs/throttler
 npm list @nestjs/websockets
 npm list @nestjs/schedule
 npm list mailparser
+npm install @nestjs/config
+npm npm install --save-dev @types/node
+
 
 ```
 
@@ -148,6 +151,8 @@ This is a **temporary email service backend** built with **NestJS**, supporting 
 - `@nestjs/websockets`, `@nestjs/platform-socket.io`
 - `@nestjs/schedule`
 - `mailparser`
+- `npm install @nestjs/config`
+- `npm install --save-dev @types/node`
 
 ## Setup Instructions
 
@@ -156,5 +161,5 @@ This is a **temporary email service backend** built with **NestJS**, supporting 
 
    git clone <your-repo-url>
    cd temp-mail-backend
-   
+
    ```
